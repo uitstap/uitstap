@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 
@@ -7,6 +7,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 - waar wil ik naartoe
 - hoe wil ik er naartoe
-
-
-
